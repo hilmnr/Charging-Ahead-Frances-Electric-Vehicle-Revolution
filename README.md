@@ -1,4 +1,4 @@
-# Charging-Ahead-Frances-Electric-Vehicle-Revolution
+# Charging-Ahead
 Final Data Analytics project @Ironhack (November 2023)
 
 This is a test
