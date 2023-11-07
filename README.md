@@ -22,7 +22,7 @@ Historical data was analysed and compared (To continue)
 
 ### EV sales 
 France
-- Registrations [Voitures particulières immatriculées par commune et par type de recharge](https://opendata.agenceore.fr/explore/dataset/voitures-par-commune-par-energie/information/))
+- Registrations [Voitures particulières immatriculées par commune et par type de recharge](https://opendata.agenceore.fr/explore/dataset/voitures-par-commune-par-energie/information/)
 - Float
   
 World
