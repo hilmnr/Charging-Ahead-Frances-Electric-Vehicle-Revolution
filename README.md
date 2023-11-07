@@ -1,4 +1,4 @@
-# Charging-Ahead
-France's Electric Vehicle Revolution
+# CHARGING AHEAD
+FRANCE'S ELECTRIC VEHICLE REVOLUTION
 
 This is a test
