@@ -8,7 +8,7 @@ Electric vehicles (EVs) are becoming increasingly important as more people look 
 
 The main goal of this project is to look into two big questions about EVs in France. First, we want to understand how French consumers are reacting to the push for more EVs and what new buying patterns are showing. We'll look at how many people are buying EVs, if companies and governments are using more of them, and how government initiatives are helping this along. Second, we'll see if France’s infrastructure is getting ready for more EVs by enabling the necessary amount of charging points. This will give us a clearer picture of how ready France is for more electric cars on the roads.
 
-## Project Plan
+## Process
 - Scope definition 
 - End-to-end project planning using Trello
 - Data collection using these following sources (Web Scraping, API, Flat File, Database & Big Data System)
@@ -23,13 +23,13 @@ The main goal of this project is to look into two big questions about EVs in Fra
 
 
 ## Exploratory Data Analysis
-The following EDA steps were followed:
-1. Verification of data collection.
-Confirming the sources' credibility, ensuring data consistency (format, scale), and performing a preliminary assessment (looking for empty fields, duplicates, data types, etc.).
-2. Data Cleaning.
-Making sense of missing values (deciding the best way to handle them), correcting data inconsistencies (standardize categories, correct typos, and ensure consistent formatting). Finally, decide how to deal with outliers, whether to remove them or keep them, based on the context.
-3. Data Visualization.
-Historical data was analysed and compared (To continue)
+Data cleaning/wrangling
+Data cleaning for this project was thorough and involved the application of a variety of techniques, such as: handling duplicates, handling null values, handling date formats, filtering values, renaming columns, renaming rows values, creating columns, dropping columns when necessary, dropping rows when necessary, verifying that the datatypes were accurate, if not, handle conversion, string formatting, melting,etc.
+
+
+Data visualization
+To ensure consistency between visualizations and overall analysis, I chose 2011 through 2021 as the range of available years for the vast majority of the charts.
+A total of sixteen visualizations were created from the ‘EV_in_France’ database using Tableau via the MySQL connector.
 
 
 ## Data Sources
