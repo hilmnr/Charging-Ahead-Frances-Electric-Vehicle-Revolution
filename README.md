@@ -23,11 +23,10 @@ The main goal of this project is to look into two big questions about EVs in Fra
 
 
 ## Exploratory Data Analysis
-Data cleaning/wrangling
+# Data cleaning/wrangling
 Data cleaning for this project was thorough and involved the application of a variety of techniques, such as: handling duplicates, handling null values, handling date formats, filtering values, renaming columns, renaming rows values, creating columns, dropping columns when necessary, dropping rows when necessary, verifying that the datatypes were accurate, if not, handle conversion, string formatting, melting,etc.
 
-
-Data visualization
+# Data visualization
 To ensure consistency between visualizations and overall analysis, I chose 2011 through 2021 as the range of available years for the vast majority of the charts.
 A total of sixteen visualizations were created from the ‘EV_in_France’ database using Tableau via the MySQL connector.
 
