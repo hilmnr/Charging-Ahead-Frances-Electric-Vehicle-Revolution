@@ -1,0 +1,887 @@
+country_id,region,category,parameter,mode,powertrain,year,unit,value
+1,Australia,Historical,EV stock,Cars,BEV,2011,Vehicles,49
+2,Australia,Historical,EV sales,Cars,BEV,2011,Vehicles,49
+3,Australia,Historical,EV sales,Cars,BEV,2012,Vehicles,170
+4,Australia,Historical,EV stock,Cars,BEV,2012,Vehicles,220
+5,Australia,Historical,EV stock,Cars,BEV,2013,Vehicles,410
+6,Australia,Historical,EV sales,Cars,BEV,2013,Vehicles,190
+7,Australia,Historical,EV sales,Cars,BEV,2014,Vehicles,370
+8,Australia,Historical,EV stock,Cars,BEV,2014,Vehicles,780
+9,Australia,Historical,EV stock,Cars,BEV,2015,Vehicles,1500
+10,Australia,Historical,EV sales,Cars,BEV,2015,Vehicles,760
+11,Australia,Historical,EV sales,Cars,BEV,2016,Vehicles,670
+12,Australia,Historical,EV stock,Cars,BEV,2016,Vehicles,2200
+13,Australia,Historical,EV stock,Cars,BEV,2017,Vehicles,3400
+14,Australia,Historical,EV sales,Cars,BEV,2017,Vehicles,1200
+15,Australia,Historical,EV sales,Cars,BEV,2018,Vehicles,1800
+16,Australia,Historical,EV stock,Cars,BEV,2018,Vehicles,5200
+17,Australia,Historical,EV stock,Cars,BEV,2019,Vehicles,12000
+18,Australia,Historical,EV sales,Cars,BEV,2019,Vehicles,6300
+19,Australia,Historical,EV sales,Cars,BEV,2020,Vehicles,5200
+20,Australia,Historical,EV stock,Cars,BEV,2020,Vehicles,17000
+21,Australia,Historical,EV stock,Cars,BEV,2021,Vehicles,34000
+22,Australia,Historical,EV sales,Cars,BEV,2021,Vehicles,17000
+23,Australia,Historical,EV sales,Cars,BEV,2022,Vehicles,33000
+24,Australia,Historical,EV stock,Cars,BEV,2022,Vehicles,67000
+25,Austria,Historical,EV stock,Cars,BEV,2010,Vehicles,350
+26,Austria,Historical,EV stock,Cars,BEV,2011,Vehicles,990
+27,Austria,Historical,EV stock,Cars,BEV,2012,Vehicles,1400
+28,Austria,Historical,EV stock,Cars,BEV,2013,Vehicles,2100
+29,Austria,Historical,EV sales,Cars,BEV,2013,Vehicles,650
+30,Austria,Historical,EV sales,Cars,BEV,2014,Vehicles,1700
+31,Austria,Historical,EV stock,Cars,BEV,2014,Vehicles,3400
+32,Austria,Historical,EV stock,Cars,BEV,2015,Vehicles,5000
+33,Austria,Historical,EV sales,Cars,BEV,2015,Vehicles,1700
+34,Austria,Historical,EV sales,Cars,BEV,2016,Vehicles,3800
+35,Austria,Historical,EV stock,Cars,BEV,2016,Vehicles,9100
+36,Austria,Historical,EV stock,Cars,BEV,2017,Vehicles,15000
+37,Austria,Historical,EV sales,Cars,BEV,2017,Vehicles,5400
+38,Austria,Historical,EV sales,Cars,BEV,2018,Vehicles,6800
+39,Austria,Historical,EV stock,Cars,BEV,2018,Vehicles,21000
+40,Austria,Historical,EV stock,Cars,BEV,2019,Vehicles,30000
+41,Austria,Historical,EV sales,Cars,BEV,2019,Vehicles,9300
+42,Austria,Historical,EV sales,Cars,BEV,2020,Vehicles,16000
+43,Austria,Historical,EV stock,Cars,BEV,2020,Vehicles,45000
+44,Austria,Historical,EV stock,Cars,BEV,2021,Vehicles,77000
+45,Austria,Historical,EV sales,Cars,BEV,2021,Vehicles,33000
+46,Austria,Historical,EV sales,Cars,BEV,2022,Vehicles,34000
+47,Austria,Historical,EV stock,Cars,BEV,2022,Vehicles,110000
+48,Belgium,Historical,EV sales,Cars,BEV,2010,Vehicles,48
+49,Belgium,Historical,EV stock,Cars,BEV,2010,Vehicles,61
+50,Belgium,Historical,EV stock,Cars,BEV,2011,Vehicles,320
+51,Belgium,Historical,EV sales,Cars,BEV,2011,Vehicles,280
+52,Belgium,Historical,EV sales,Cars,BEV,2012,Vehicles,570
+53,Belgium,Historical,EV stock,Cars,BEV,2012,Vehicles,830
+54,Belgium,Historical,EV stock,Cars,BEV,2013,Vehicles,1200
+55,Belgium,Historical,EV sales,Cars,BEV,2013,Vehicles,500
+56,Belgium,Historical,EV sales,Cars,BEV,2014,Vehicles,1300
+57,Belgium,Historical,EV stock,Cars,BEV,2014,Vehicles,2200
+58,Belgium,Historical,EV stock,Cars,BEV,2015,Vehicles,3300
+59,Belgium,Historical,EV sales,Cars,BEV,2015,Vehicles,1400
+60,Belgium,Historical,EV sales,Cars,BEV,2016,Vehicles,2100
+61,Belgium,Historical,EV stock,Cars,BEV,2016,Vehicles,5200
+62,Belgium,Historical,EV stock,Cars,BEV,2017,Vehicles,7500
+63,Belgium,Historical,EV sales,Cars,BEV,2017,Vehicles,2700
+64,Belgium,Historical,EV sales,Cars,BEV,2018,Vehicles,3600
+65,Belgium,Historical,EV stock,Cars,BEV,2018,Vehicles,11000
+66,Belgium,Historical,EV stock,Cars,BEV,2019,Vehicles,19000
+67,Belgium,Historical,EV sales,Cars,BEV,2019,Vehicles,8800
+68,Belgium,Historical,EV sales,Cars,BEV,2020,Vehicles,15000
+69,Belgium,Historical,EV stock,Cars,BEV,2020,Vehicles,32000
+70,Belgium,Historical,EV stock,Cars,BEV,2021,Vehicles,52000
+71,Belgium,Historical,EV sales,Cars,BEV,2021,Vehicles,23000
+72,Belgium,Historical,EV sales,Cars,BEV,2022,Vehicles,38000
+73,Belgium,Historical,EV stock,Cars,BEV,2022,Vehicles,90000
+74,Brazil,Historical,EV sales,Cars,BEV,2012,Vehicles,74
+75,Brazil,Historical,EV sales,Cars,BEV,2013,Vehicles,130
+76,Brazil,Historical,EV sales,Cars,BEV,2014,Vehicles,61
+77,Brazil,Historical,EV stock,Cars,BEV,2014,Vehicles,61
+78,Brazil,Historical,EV stock,Cars,BEV,2015,Vehicles,120
+79,Brazil,Historical,EV sales,Cars,BEV,2015,Vehicles,59
+80,Brazil,Historical,EV sales,Cars,BEV,2016,Vehicles,130
+81,Brazil,Historical,EV stock,Cars,BEV,2016,Vehicles,250
+82,Brazil,Historical,EV stock,Cars,BEV,2017,Vehicles,320
+83,Brazil,Historical,EV sales,Cars,BEV,2017,Vehicles,25
+84,Brazil,Historical,EV sales,Cars,BEV,2018,Vehicles,66
+85,Brazil,Historical,EV stock,Cars,BEV,2018,Vehicles,350
+86,Brazil,Historical,EV stock,Cars,BEV,2019,Vehicles,890
+87,Brazil,Historical,EV sales,Cars,BEV,2019,Vehicles,540
+88,Brazil,Historical,EV sales,Cars,BEV,2020,Vehicles,680
+89,Brazil,Historical,EV stock,Cars,BEV,2020,Vehicles,1600
+90,Brazil,Historical,EV stock,Cars,BEV,2021,Vehicles,4400
+91,Brazil,Historical,EV sales,Cars,BEV,2021,Vehicles,2900
+92,Brazil,Historical,EV sales,Cars,BEV,2022,Vehicles,8500
+93,Brazil,Historical,EV stock,Cars,BEV,2022,Vehicles,13000
+94,Canada,Historical,EV sales,Cars,BEV,2011,Vehicles,220
+95,Canada,Historical,EV stock,Cars,BEV,2011,Vehicles,250
+96,Canada,Historical,EV stock,Cars,BEV,2012,Vehicles,830
+97,Canada,Historical,EV sales,Cars,BEV,2012,Vehicles,620
+98,Canada,Historical,EV sales,Cars,BEV,2013,Vehicles,1600
+99,Canada,Historical,EV stock,Cars,BEV,2013,Vehicles,2400
+100,Canada,Historical,EV stock,Cars,BEV,2014,Vehicles,5400
+101,Canada,Historical,EV sales,Cars,BEV,2014,Vehicles,2800
+102,Canada,Historical,EV sales,Cars,BEV,2015,Vehicles,4400
+103,Canada,Historical,EV stock,Cars,BEV,2015,Vehicles,9900
+104,Canada,Historical,EV stock,Cars,BEV,2016,Vehicles,15000
+105,Canada,Historical,EV sales,Cars,BEV,2016,Vehicles,5200
+106,Canada,Historical,EV sales,Cars,BEV,2017,Vehicles,8700
+107,Canada,Historical,EV stock,Cars,BEV,2017,Vehicles,25000
+108,Canada,Historical,EV stock,Cars,BEV,2018,Vehicles,45000
+109,Canada,Historical,EV sales,Cars,BEV,2018,Vehicles,23000
+110,Canada,Historical,EV sales,Cars,BEV,2019,Vehicles,32000
+111,Canada,Historical,EV stock,Cars,BEV,2019,Vehicles,76000
+112,Canada,Historical,EV stock,Cars,BEV,2020,Vehicles,110000
+113,Canada,Historical,EV sales,Cars,BEV,2020,Vehicles,37000
+114,Canada,Historical,EV sales,Cars,BEV,2021,Vehicles,59000
+115,Canada,Historical,EV stock,Cars,BEV,2021,Vehicles,160000
+116,Canada,Historical,EV stock,Cars,BEV,2022,Vehicles,250000
+117,Canada,Historical,EV sales,Cars,BEV,2022,Vehicles,85000
+118,Chile,Historical,EV sales,Cars,BEV,2011,Vehicles,6
+119,Chile,Historical,EV stock,Cars,BEV,2011,Vehicles,6
+120,Chile,Historical,EV stock,Cars,BEV,2012,Vehicles,11
+121,Chile,Historical,EV sales,Cars,BEV,2012,Vehicles,5
+122,Chile,Historical,EV sales,Cars,BEV,2013,Vehicles,5
+123,Chile,Historical,EV stock,Cars,BEV,2013,Vehicles,16
+124,Chile,Historical,EV stock,Cars,BEV,2014,Vehicles,19
+125,Chile,Historical,EV sales,Cars,BEV,2014,Vehicles,3
+126,Chile,Historical,EV sales,Cars,BEV,2015,Vehicles,13
+127,Chile,Historical,EV stock,Cars,BEV,2015,Vehicles,32
+128,Chile,Historical,EV stock,Cars,BEV,2016,Vehicles,54
+129,Chile,Historical,EV sales,Cars,BEV,2016,Vehicles,22
+130,Chile,Historical,EV sales,Cars,BEV,2017,Vehicles,120
+131,Chile,Historical,EV stock,Cars,BEV,2017,Vehicles,170
+132,Chile,Historical,EV stock,Cars,BEV,2018,Vehicles,280
+133,Chile,Historical,EV sales,Cars,BEV,2018,Vehicles,110
+134,Chile,Historical,EV sales,Cars,BEV,2019,Vehicles,160
+135,Chile,Historical,EV stock,Cars,BEV,2019,Vehicles,440
+136,Chile,Historical,EV stock,Cars,BEV,2020,Vehicles,550
+137,Chile,Historical,EV sales,Cars,BEV,2020,Vehicles,110
+138,Chile,Historical,EV sales,Cars,BEV,2021,Vehicles,270
+139,Chile,Historical,EV stock,Cars,BEV,2021,Vehicles,820
+140,Chile,Historical,EV stock,Cars,BEV,2022,Vehicles,1700
+141,Chile,Historical,EV sales,Cars,BEV,2022,Vehicles,880
+142,China,Historical,EV stock,Cars,BEV,2010,Vehicles,1600
+143,China,Historical,EV sales,Cars,BEV,2010,Vehicles,1100
+144,China,Historical,EV sales,Cars,BEV,2011,Vehicles,4800
+145,China,Historical,EV stock,Cars,BEV,2011,Vehicles,6300
+146,China,Historical,EV stock,Cars,BEV,2012,Vehicles,16000
+147,China,Historical,EV sales,Cars,BEV,2012,Vehicles,9600
+148,China,Historical,EV sales,Cars,BEV,2013,Vehicles,15000
+149,China,Historical,EV stock,Cars,BEV,2013,Vehicles,31000
+150,China,Historical,EV stock,Cars,BEV,2014,Vehicles,59000
+151,China,Historical,EV sales,Cars,BEV,2014,Vehicles,49000
+152,China,Historical,EV sales,Cars,BEV,2015,Vehicles,150000
+153,China,Historical,EV stock,Cars,BEV,2015,Vehicles,210000
+154,China,Historical,EV sales,Cars,BEV,2016,Vehicles,260000
+155,China,Historical,EV stock,Cars,BEV,2016,Vehicles,460000
+156,China,Historical,EV stock,Cars,BEV,2017,Vehicles,930000
+157,China,Historical,EV sales,Cars,BEV,2017,Vehicles,470000
+158,China,Historical,EV sales,Cars,BEV,2018,Vehicles,820000
+159,China,Historical,EV stock,Cars,BEV,2018,Vehicles,1700000
+160,China,Historical,EV stock,Cars,BEV,2019,Vehicles,2600000
+161,China,Historical,EV sales,Cars,BEV,2019,Vehicles,830000
+162,China,Historical,EV sales,Cars,BEV,2020,Vehicles,920000
+163,China,Historical,EV stock,Cars,BEV,2020,Vehicles,3500000
+164,China,Historical,EV stock,Cars,BEV,2021,Vehicles,6200000
+165,China,Historical,EV sales,Cars,BEV,2021,Vehicles,2700000
+166,China,Historical,EV sales,Cars,BEV,2022,Vehicles,4400000
+167,China,Historical,EV stock,Cars,BEV,2022,Vehicles,11000000
+168,Denmark,Historical,EV stock,Cars,BEV,2010,Vehicles,59
+169,Denmark,Historical,EV stock,Cars,BEV,2011,Vehicles,480
+170,Denmark,Historical,EV sales,Cars,BEV,2011,Vehicles,420
+171,Denmark,Historical,EV sales,Cars,BEV,2012,Vehicles,490
+172,Denmark,Historical,EV stock,Cars,BEV,2012,Vehicles,1200
+173,Denmark,Historical,EV stock,Cars,BEV,2013,Vehicles,1500
+174,Denmark,Historical,EV sales,Cars,BEV,2013,Vehicles,500
+175,Denmark,Historical,EV sales,Cars,BEV,2014,Vehicles,1600
+176,Denmark,Historical,EV stock,Cars,BEV,2014,Vehicles,2900
+177,Denmark,Historical,EV stock,Cars,BEV,2015,Vehicles,7900
+178,Denmark,Historical,EV sales,Cars,BEV,2015,Vehicles,4300
+179,Denmark,Historical,EV sales,Cars,BEV,2016,Vehicles,1300
+180,Denmark,Historical,EV stock,Cars,BEV,2016,Vehicles,8700
+181,Denmark,Historical,EV stock,Cars,BEV,2017,Vehicles,8800
+182,Denmark,Historical,EV sales,Cars,BEV,2017,Vehicles,710
+183,Denmark,Historical,EV sales,Cars,BEV,2018,Vehicles,1500
+184,Denmark,Historical,EV stock,Cars,BEV,2018,Vehicles,10000
+185,Denmark,Historical,EV stock,Cars,BEV,2019,Vehicles,16000
+186,Denmark,Historical,EV sales,Cars,BEV,2019,Vehicles,5500
+187,Denmark,Historical,EV sales,Cars,BEV,2020,Vehicles,14000
+188,Denmark,Historical,EV stock,Cars,BEV,2020,Vehicles,32000
+189,Denmark,Historical,EV stock,Cars,BEV,2021,Vehicles,67000
+190,Denmark,Historical,EV sales,Cars,BEV,2021,Vehicles,25000
+191,Denmark,Historical,EV sales,Cars,BEV,2022,Vehicles,31000
+192,Denmark,Historical,EV stock,Cars,BEV,2022,Vehicles,110000
+193,EU27,Historical,EV sales,Cars,BEV,2010,Vehicles,1400
+194,EU27,Historical,EV stock,Cars,BEV,2010,Vehicles,2800
+195,EU27,Historical,EV stock,Cars,BEV,2011,Vehicles,10000
+196,EU27,Historical,EV sales,Cars,BEV,2011,Vehicles,6700
+197,EU27,Historical,EV sales,Cars,BEV,2012,Vehicles,12000
+198,EU27,Historical,EV stock,Cars,BEV,2012,Vehicles,23000
+199,EU27,Historical,EV stock,Cars,BEV,2013,Vehicles,44000
+200,EU27,Historical,EV sales,Cars,BEV,2013,Vehicles,21000
+201,EU27,Historical,EV sales,Cars,BEV,2014,Vehicles,32000
+202,EU27,Historical,EV stock,Cars,BEV,2014,Vehicles,75000
+203,EU27,Historical,EV stock,Cars,BEV,2015,Vehicles,120000
+204,EU27,Historical,EV sales,Cars,BEV,2015,Vehicles,49000
+205,EU27,Historical,EV sales,Cars,BEV,2016,Vehicles,53000
+206,EU27,Historical,EV stock,Cars,BEV,2016,Vehicles,180000
+207,EU27,Historical,EV stock,Cars,BEV,2017,Vehicles,250000
+208,EU27,Historical,EV sales,Cars,BEV,2017,Vehicles,84000
+209,EU27,Historical,EV sales,Cars,BEV,2018,Vehicles,130000
+210,EU27,Historical,EV stock,Cars,BEV,2018,Vehicles,380000
+211,EU27,Historical,EV stock,Cars,BEV,2019,Vehicles,610000
+212,EU27,Historical,EV sales,Cars,BEV,2019,Vehicles,250000
+213,EU27,Historical,EV sales,Cars,BEV,2020,Vehicles,540000
+214,EU27,Historical,EV stock,Cars,BEV,2020,Vehicles,1200000
+215,EU27,Historical,EV stock,Cars,BEV,2021,Vehicles,2000000
+216,EU27,Historical,EV sales,Cars,BEV,2021,Vehicles,880000
+217,EU27,Historical,EV sales,Cars,BEV,2022,Vehicles,1100000
+218,EU27,Historical,EV stock,Cars,BEV,2022,Vehicles,3100000
+219,Europe,Historical,EV stock,Cars,BEV,2010,Vehicles,7100
+220,Europe,Historical,EV sales,Cars,BEV,2010,Vehicles,2000
+221,Europe,Historical,EV sales,Cars,BEV,2011,Vehicles,10000
+222,Europe,Historical,EV stock,Cars,BEV,2011,Vehicles,17000
+223,Europe,Historical,EV stock,Cars,BEV,2012,Vehicles,37000
+224,Europe,Historical,EV sales,Cars,BEV,2012,Vehicles,18000
+225,Europe,Historical,EV sales,Cars,BEV,2013,Vehicles,33000
+226,Europe,Historical,EV stock,Cars,BEV,2013,Vehicles,68000
+227,Europe,Historical,EV stock,Cars,BEV,2014,Vehicles,130000
+228,Europe,Historical,EV sales,Cars,BEV,2014,Vehicles,62000
+229,Europe,Historical,EV sales,Cars,BEV,2015,Vehicles,88000
+230,Europe,Historical,EV stock,Cars,BEV,2015,Vehicles,210000
+231,Europe,Historical,EV stock,Cars,BEV,2016,Vehicles,300000
+232,Europe,Historical,EV sales,Cars,BEV,2016,Vehicles,92000
+233,Europe,Historical,EV sales,Cars,BEV,2017,Vehicles,140000
+234,Europe,Historical,EV stock,Cars,BEV,2017,Vehicles,430000
+235,Europe,Historical,EV stock,Cars,BEV,2018,Vehicles,630000
+236,Europe,Historical,EV sales,Cars,BEV,2018,Vehicles,200000
+237,Europe,Historical,EV sales,Cars,BEV,2019,Vehicles,360000
+238,Europe,Historical,EV stock,Cars,BEV,2019,Vehicles,970000
+239,Europe,Historical,EV stock,Cars,BEV,2020,Vehicles,1800000
+240,Europe,Historical,EV sales,Cars,BEV,2020,Vehicles,750000
+241,Europe,Historical,EV sales,Cars,BEV,2021,Vehicles,1200000
+242,Europe,Historical,EV stock,Cars,BEV,2021,Vehicles,3000000
+243,Europe,Historical,EV stock,Cars,BEV,2022,Vehicles,4400000
+244,Europe,Historical,EV sales,Cars,BEV,2022,Vehicles,1600000
+245,Finland,Historical,EV sales,Cars,BEV,2011,Vehicles,30
+246,Finland,Historical,EV stock,Cars,BEV,2011,Vehicles,56
+247,Finland,Historical,EV stock,Cars,BEV,2012,Vehicles,110
+248,Finland,Historical,EV sales,Cars,BEV,2012,Vehicles,51
+249,Finland,Historical,EV sales,Cars,BEV,2013,Vehicles,50
+250,Finland,Historical,EV stock,Cars,BEV,2013,Vehicles,170
+251,Finland,Historical,EV stock,Cars,BEV,2014,Vehicles,360
+252,Finland,Historical,EV sales,Cars,BEV,2014,Vehicles,180
+253,Finland,Historical,EV sales,Cars,BEV,2015,Vehicles,240
+254,Finland,Historical,EV stock,Cars,BEV,2015,Vehicles,610
+255,Finland,Historical,EV stock,Cars,BEV,2016,Vehicles,840
+256,Finland,Historical,EV sales,Cars,BEV,2016,Vehicles,220
+257,Finland,Historical,EV sales,Cars,BEV,2017,Vehicles,500
+258,Finland,Historical,EV stock,Cars,BEV,2017,Vehicles,1400
+259,Finland,Historical,EV stock,Cars,BEV,2018,Vehicles,2400
+260,Finland,Historical,EV sales,Cars,BEV,2018,Vehicles,780
+261,Finland,Historical,EV sales,Cars,BEV,2019,Vehicles,1900
+262,Finland,Historical,EV stock,Cars,BEV,2019,Vehicles,4700
+263,Finland,Historical,EV stock,Cars,BEV,2020,Vehicles,9700
+264,Finland,Historical,EV sales,Cars,BEV,2020,Vehicles,4200
+265,Finland,Historical,EV sales,Cars,BEV,2021,Vehicles,10000
+266,Finland,Historical,EV stock,Cars,BEV,2021,Vehicles,23000
+267,Finland,Historical,EV stock,Cars,BEV,2022,Vehicles,45000
+268,Finland,Historical,EV sales,Cars,BEV,2022,Vehicles,15000
+269,France,Historical,EV sales,Cars,BEV,2010,Vehicles,190
+270,France,Historical,EV stock,Cars,BEV,2010,Vehicles,300
+271,France,Historical,EV stock,Cars,BEV,2011,Vehicles,2900
+272,France,Historical,EV sales,Cars,BEV,2011,Vehicles,2600
+273,France,Historical,EV sales,Cars,BEV,2012,Vehicles,5700
+274,France,Historical,EV stock,Cars,BEV,2012,Vehicles,8600
+275,France,Historical,EV stock,Cars,BEV,2013,Vehicles,17000
+276,France,Historical,EV sales,Cars,BEV,2013,Vehicles,8800
+277,France,Historical,EV sales,Cars,BEV,2014,Vehicles,11000
+278,France,Historical,EV stock,Cars,BEV,2014,Vehicles,28000
+279,France,Historical,EV stock,Cars,BEV,2015,Vehicles,45000
+280,France,Historical,EV sales,Cars,BEV,2015,Vehicles,17000
+281,France,Historical,EV sales,Cars,BEV,2016,Vehicles,22000
+282,France,Historical,EV stock,Cars,BEV,2016,Vehicles,67000
+283,France,Historical,EV stock,Cars,BEV,2017,Vehicles,93000
+284,France,Historical,EV sales,Cars,BEV,2017,Vehicles,25000
+285,France,Historical,EV sales,Cars,BEV,2018,Vehicles,31000
+286,France,Historical,EV stock,Cars,BEV,2018,Vehicles,120000
+287,France,Historical,EV stock,Cars,BEV,2019,Vehicles,170000
+288,France,Historical,EV sales,Cars,BEV,2019,Vehicles,43000
+289,France,Historical,EV sales,Cars,BEV,2020,Vehicles,110000
+290,France,Historical,EV stock,Cars,BEV,2020,Vehicles,280000
+291,France,Historical,EV stock,Cars,BEV,2021,Vehicles,440000
+292,France,Historical,EV sales,Cars,BEV,2021,Vehicles,160000
+293,France,Historical,EV sales,Cars,BEV,2022,Vehicles,210000
+294,France,Historical,EV stock,Cars,BEV,2022,Vehicles,620000
+295,Germany,Historical,EV sales,Cars,BEV,2010,Vehicles,140
+296,Germany,Historical,EV stock,Cars,BEV,2010,Vehicles,250
+297,Germany,Historical,EV stock,Cars,BEV,2011,Vehicles,1600
+298,Germany,Historical,EV sales,Cars,BEV,2011,Vehicles,1400
+299,Germany,Historical,EV sales,Cars,BEV,2012,Vehicles,2200
+300,Germany,Historical,EV stock,Cars,BEV,2012,Vehicles,3900
+301,Germany,Historical,EV stock,Cars,BEV,2013,Vehicles,9200
+302,Germany,Historical,EV sales,Cars,BEV,2013,Vehicles,5200
+303,Germany,Historical,EV sales,Cars,BEV,2014,Vehicles,9100
+304,Germany,Historical,EV stock,Cars,BEV,2014,Vehicles,18000
+305,Germany,Historical,EV stock,Cars,BEV,2015,Vehicles,30000
+306,Germany,Historical,EV sales,Cars,BEV,2015,Vehicles,12000
+307,Germany,Historical,EV sales,Cars,BEV,2016,Vehicles,11000
+308,Germany,Historical,EV stock,Cars,BEV,2016,Vehicles,41000
+309,Germany,Historical,EV stock,Cars,BEV,2017,Vehicles,59000
+310,Germany,Historical,EV sales,Cars,BEV,2017,Vehicles,25000
+311,Germany,Historical,EV sales,Cars,BEV,2018,Vehicles,36000
+312,Germany,Historical,EV stock,Cars,BEV,2018,Vehicles,95000
+313,Germany,Historical,EV stock,Cars,BEV,2019,Vehicles,140000
+314,Germany,Historical,EV sales,Cars,BEV,2019,Vehicles,63000
+315,Germany,Historical,EV sales,Cars,BEV,2020,Vehicles,190000
+316,Germany,Historical,EV stock,Cars,BEV,2020,Vehicles,330000
+317,Germany,Historical,EV stock,Cars,BEV,2021,Vehicles,690000
+318,Germany,Historical,EV sales,Cars,BEV,2021,Vehicles,360000
+319,Germany,Historical,EV sales,Cars,BEV,2022,Vehicles,470000
+320,Germany,Historical,EV stock,Cars,BEV,2022,Vehicles,1000000
+321,Greece,Historical,EV sales,Cars,BEV,2013,Vehicles,3
+322,Greece,Historical,EV stock,Cars,BEV,2013,Vehicles,3
+323,Greece,Historical,EV stock,Cars,BEV,2014,Vehicles,42
+324,Greece,Historical,EV sales,Cars,BEV,2014,Vehicles,39
+325,Greece,Historical,EV sales,Cars,BEV,2015,Vehicles,35
+326,Greece,Historical,EV stock,Cars,BEV,2015,Vehicles,97
+327,Greece,Historical,EV stock,Cars,BEV,2016,Vehicles,140
+328,Greece,Historical,EV sales,Cars,BEV,2016,Vehicles,41
+329,Greece,Historical,EV sales,Cars,BEV,2017,Vehicles,50
+330,Greece,Historical,EV stock,Cars,BEV,2017,Vehicles,190
+331,Greece,Historical,EV stock,Cars,BEV,2018,Vehicles,280
+332,Greece,Historical,EV sales,Cars,BEV,2018,Vehicles,88
+333,Greece,Historical,EV sales,Cars,BEV,2019,Vehicles,190
+334,Greece,Historical,EV stock,Cars,BEV,2019,Vehicles,470
+335,Greece,Historical,EV stock,Cars,BEV,2020,Vehicles,1100
+336,Greece,Historical,EV sales,Cars,BEV,2020,Vehicles,680
+337,Greece,Historical,EV sales,Cars,BEV,2021,Vehicles,2200
+338,Greece,Historical,EV stock,Cars,BEV,2021,Vehicles,3300
+339,Greece,Historical,EV stock,Cars,BEV,2022,Vehicles,7400
+340,Greece,Historical,EV sales,Cars,BEV,2022,Vehicles,2800
+341,Iceland,Historical,EV stock,Cars,BEV,2010,Vehicles,14
+342,Iceland,Historical,EV stock,Cars,BEV,2011,Vehicles,14
+343,Iceland,Historical,EV stock,Cars,BEV,2012,Vehicles,31
+344,Iceland,Historical,EV sales,Cars,BEV,2012,Vehicles,17
+345,Iceland,Historical,EV sales,Cars,BEV,2013,Vehicles,80
+346,Iceland,Historical,EV stock,Cars,BEV,2013,Vehicles,110
+347,Iceland,Historical,EV stock,Cars,BEV,2014,Vehicles,300
+348,Iceland,Historical,EV sales,Cars,BEV,2014,Vehicles,200
+349,Iceland,Historical,EV sales,Cars,BEV,2015,Vehicles,390
+350,Iceland,Historical,EV stock,Cars,BEV,2015,Vehicles,690
+351,Iceland,Historical,EV stock,Cars,BEV,2016,Vehicles,1100
+352,Iceland,Historical,EV sales,Cars,BEV,2016,Vehicles,380
+353,Iceland,Historical,EV sales,Cars,BEV,2017,Vehicles,850
+354,Iceland,Historical,EV stock,Cars,BEV,2017,Vehicles,1900
+355,Iceland,Historical,EV stock,Cars,BEV,2018,Vehicles,2700
+356,Iceland,Historical,EV sales,Cars,BEV,2018,Vehicles,780
+357,Iceland,Historical,EV sales,Cars,BEV,2019,Vehicles,910
+358,Iceland,Historical,EV stock,Cars,BEV,2019,Vehicles,3700
+359,Iceland,Historical,EV stock,Cars,BEV,2020,Vehicles,6300
+360,Iceland,Historical,EV sales,Cars,BEV,2020,Vehicles,2600
+361,Iceland,Historical,EV sales,Cars,BEV,2021,Vehicles,4300
+362,Iceland,Historical,EV stock,Cars,BEV,2021,Vehicles,11000
+363,Iceland,Historical,EV stock,Cars,BEV,2022,Vehicles,18000
+364,Iceland,Historical,EV sales,Cars,BEV,2022,Vehicles,6900
+365,India,Historical,EV stock,Cars,BEV,2010,Vehicles,880
+366,India,Historical,EV sales,Cars,BEV,2010,Vehicles,450
+367,India,Historical,EV stock,Cars,BEV,2011,Vehicles,1300
+368,India,Historical,EV sales,Cars,BEV,2011,Vehicles,1400
+369,India,Historical,EV sales,Cars,BEV,2012,Vehicles,190
+370,India,Historical,EV stock,Cars,BEV,2012,Vehicles,2800
+371,India,Historical,EV stock,Cars,BEV,2013,Vehicles,2900
+372,India,Historical,EV sales,Cars,BEV,2013,Vehicles,410
+373,India,Historical,EV sales,Cars,BEV,2014,Vehicles,1000
+374,India,Historical,EV stock,Cars,BEV,2014,Vehicles,3400
+375,India,Historical,EV stock,Cars,BEV,2015,Vehicles,4400
+376,India,Historical,EV sales,Cars,BEV,2015,Vehicles,450
+377,India,Historical,EV sales,Cars,BEV,2016,Vehicles,730
+378,India,Historical,EV stock,Cars,BEV,2016,Vehicles,4800
+379,India,Historical,EV stock,Cars,BEV,2017,Vehicles,7000
+380,India,Historical,EV sales,Cars,BEV,2017,Vehicles,920
+381,India,Historical,EV sales,Cars,BEV,2018,Vehicles,920
+382,India,Historical,EV stock,Cars,BEV,2018,Vehicles,7900
+383,India,Historical,EV stock,Cars,BEV,2019,Vehicles,8600
+384,India,Historical,EV sales,Cars,BEV,2019,Vehicles,680
+385,India,Historical,EV sales,Cars,BEV,2020,Vehicles,3100
+386,India,Historical,EV stock,Cars,BEV,2020,Vehicles,12000
+387,India,Historical,EV stock,Cars,BEV,2021,Vehicles,23000
+388,India,Historical,EV sales,Cars,BEV,2021,Vehicles,12000
+389,India,Historical,EV sales,Cars,BEV,2022,Vehicles,48000
+390,India,Historical,EV stock,Cars,BEV,2022,Vehicles,72000
+391,Israel,Historical,EV stock,Cars,BEV,2010,Vehicles,6
+392,Israel,Historical,EV stock,Cars,BEV,2011,Vehicles,85
+393,Israel,Historical,EV sales,Cars,BEV,2011,Vehicles,3
+394,Israel,Historical,EV sales,Cars,BEV,2012,Vehicles,600
+395,Israel,Historical,EV stock,Cars,BEV,2012,Vehicles,610
+396,Israel,Historical,EV stock,Cars,BEV,2013,Vehicles,1000
+397,Israel,Historical,EV sales,Cars,BEV,2013,Vehicles,460
+398,Israel,Historical,EV sales,Cars,BEV,2014,Vehicles,6
+399,Israel,Historical,EV stock,Cars,BEV,2014,Vehicles,1200
+400,Israel,Historical,EV stock,Cars,BEV,2015,Vehicles,1200
+401,Israel,Historical,EV sales,Cars,BEV,2015,Vehicles,3
+402,Israel,Historical,EV sales,Cars,BEV,2016,Vehicles,5
+403,Israel,Historical,EV stock,Cars,BEV,2016,Vehicles,1200
+404,Israel,Historical,EV stock,Cars,BEV,2017,Vehicles,1400
+405,Israel,Historical,EV sales,Cars,BEV,2017,Vehicles,130
+406,Israel,Historical,EV sales,Cars,BEV,2018,Vehicles,130
+407,Israel,Historical,EV stock,Cars,BEV,2018,Vehicles,1500
+408,Israel,Historical,EV stock,Cars,BEV,2019,Vehicles,2200
+409,Israel,Historical,EV sales,Cars,BEV,2019,Vehicles,850
+410,Israel,Historical,EV sales,Cars,BEV,2020,Vehicles,1500
+411,Israel,Historical,EV stock,Cars,BEV,2020,Vehicles,3800
+412,Israel,Historical,EV stock,Cars,BEV,2021,Vehicles,15000
+413,Israel,Historical,EV sales,Cars,BEV,2021,Vehicles,11000
+414,Israel,Historical,EV sales,Cars,BEV,2022,Vehicles,27000
+415,Israel,Historical,EV stock,Cars,BEV,2022,Vehicles,44000
+416,Italy,Historical,EV stock,Cars,BEV,2010,Vehicles,650
+417,Italy,Historical,EV sales,Cars,BEV,2010,Vehicles,40
+418,Italy,Historical,EV sales,Cars,BEV,2011,Vehicles,110
+419,Italy,Historical,EV stock,Cars,BEV,2011,Vehicles,760
+420,Italy,Historical,EV stock,Cars,BEV,2012,Vehicles,1200
+421,Italy,Historical,EV sales,Cars,BEV,2012,Vehicles,460
+422,Italy,Historical,EV sales,Cars,BEV,2013,Vehicles,860
+423,Italy,Historical,EV stock,Cars,BEV,2013,Vehicles,2000
+424,Italy,Historical,EV stock,Cars,BEV,2014,Vehicles,3100
+425,Italy,Historical,EV sales,Cars,BEV,2014,Vehicles,1000
+426,Italy,Historical,EV sales,Cars,BEV,2015,Vehicles,1500
+427,Italy,Historical,EV stock,Cars,BEV,2015,Vehicles,4400
+428,Italy,Historical,EV stock,Cars,BEV,2016,Vehicles,5800
+429,Italy,Historical,EV sales,Cars,BEV,2016,Vehicles,1400
+430,Italy,Historical,EV sales,Cars,BEV,2017,Vehicles,2000
+431,Italy,Historical,EV stock,Cars,BEV,2017,Vehicles,7800
+432,Italy,Historical,EV stock,Cars,BEV,2018,Vehicles,13000
+433,Italy,Historical,EV sales,Cars,BEV,2018,Vehicles,5000
+434,Italy,Historical,EV sales,Cars,BEV,2019,Vehicles,11000
+435,Italy,Historical,EV stock,Cars,BEV,2019,Vehicles,23000
+436,Italy,Historical,EV stock,Cars,BEV,2020,Vehicles,55000
+437,Italy,Historical,EV sales,Cars,BEV,2020,Vehicles,33000
+438,Italy,Historical,EV sales,Cars,BEV,2021,Vehicles,67000
+439,Italy,Historical,EV stock,Cars,BEV,2021,Vehicles,120000
+440,Italy,Historical,EV stock,Cars,BEV,2022,Vehicles,170000
+441,Italy,Historical,EV sales,Cars,BEV,2022,Vehicles,49000
+442,Japan,Historical,EV sales,Cars,BEV,2010,Vehicles,2400
+443,Japan,Historical,EV stock,Cars,BEV,2010,Vehicles,3500
+444,Japan,Historical,EV stock,Cars,BEV,2011,Vehicles,16000
+445,Japan,Historical,EV sales,Cars,BEV,2011,Vehicles,13000
+446,Japan,Historical,EV sales,Cars,BEV,2012,Vehicles,13000
+447,Japan,Historical,EV stock,Cars,BEV,2012,Vehicles,30000
+448,Japan,Historical,EV stock,Cars,BEV,2013,Vehicles,44000
+449,Japan,Historical,EV sales,Cars,BEV,2013,Vehicles,15000
+450,Japan,Historical,EV sales,Cars,BEV,2014,Vehicles,16000
+451,Japan,Historical,EV stock,Cars,BEV,2014,Vehicles,70000
+452,Japan,Historical,EV stock,Cars,BEV,2015,Vehicles,79000
+453,Japan,Historical,EV sales,Cars,BEV,2015,Vehicles,10000
+454,Japan,Historical,EV sales,Cars,BEV,2016,Vehicles,15000
+455,Japan,Historical,EV stock,Cars,BEV,2016,Vehicles,88000
+456,Japan,Historical,EV stock,Cars,BEV,2017,Vehicles,100000
+457,Japan,Historical,EV sales,Cars,BEV,2017,Vehicles,18000
+458,Japan,Historical,EV sales,Cars,BEV,2018,Vehicles,27000
+459,Japan,Historical,EV stock,Cars,BEV,2018,Vehicles,110000
+460,Japan,Historical,EV stock,Cars,BEV,2019,Vehicles,120000
+461,Japan,Historical,EV sales,Cars,BEV,2019,Vehicles,21000
+462,Japan,Historical,EV sales,Cars,BEV,2020,Vehicles,15000
+463,Japan,Historical,EV stock,Cars,BEV,2020,Vehicles,140000
+464,Japan,Historical,EV stock,Cars,BEV,2021,Vehicles,160000
+465,Japan,Historical,EV sales,Cars,BEV,2021,Vehicles,22000
+466,Japan,Historical,EV sales,Cars,BEV,2022,Vehicles,61000
+467,Japan,Historical,EV stock,Cars,BEV,2022,Vehicles,210000
+468,Korea,Historical,EV sales,Cars,BEV,2010,Vehicles,61
+469,Korea,Historical,EV stock,Cars,BEV,2010,Vehicles,61
+470,Korea,Historical,EV stock,Cars,BEV,2011,Vehicles,340
+471,Korea,Historical,EV sales,Cars,BEV,2011,Vehicles,270
+472,Korea,Historical,EV sales,Cars,BEV,2012,Vehicles,510
+473,Korea,Historical,EV stock,Cars,BEV,2012,Vehicles,850
+474,Korea,Historical,EV stock,Cars,BEV,2013,Vehicles,1400
+475,Korea,Historical,EV sales,Cars,BEV,2013,Vehicles,600
+476,Korea,Historical,EV sales,Cars,BEV,2014,Vehicles,1300
+477,Korea,Historical,EV stock,Cars,BEV,2014,Vehicles,2700
+478,Korea,Historical,EV stock,Cars,BEV,2015,Vehicles,5800
+479,Korea,Historical,EV sales,Cars,BEV,2015,Vehicles,3100
+480,Korea,Historical,EV sales,Cars,BEV,2016,Vehicles,4700
+481,Korea,Historical,EV stock,Cars,BEV,2016,Vehicles,10000
+482,Korea,Historical,EV stock,Cars,BEV,2017,Vehicles,24000
+483,Korea,Historical,EV sales,Cars,BEV,2017,Vehicles,14000
+484,Korea,Historical,EV sales,Cars,BEV,2018,Vehicles,55000
+485,Korea,Historical,EV stock,Cars,BEV,2018,Vehicles,55000
+486,Korea,Historical,EV stock,Cars,BEV,2019,Vehicles,89000
+487,Korea,Historical,EV sales,Cars,BEV,2019,Vehicles,33000
+488,Korea,Historical,EV sales,Cars,BEV,2020,Vehicles,31000
+489,Korea,Historical,EV stock,Cars,BEV,2020,Vehicles,120000
+490,Korea,Historical,EV stock,Cars,BEV,2021,Vehicles,190000
+491,Korea,Historical,EV sales,Cars,BEV,2021,Vehicles,72000
+492,Korea,Historical,EV sales,Cars,BEV,2022,Vehicles,120000
+493,Korea,Historical,EV stock,Cars,BEV,2022,Vehicles,300000
+494,Mexico,Historical,EV stock,Cars,BEV,2011,Vehicles,3
+495,Mexico,Historical,EV sales,Cars,BEV,2011,Vehicles,3
+496,Mexico,Historical,EV sales,Cars,BEV,2012,Vehicles,88
+497,Mexico,Historical,EV stock,Cars,BEV,2012,Vehicles,91
+498,Mexico,Historical,EV stock,Cars,BEV,2013,Vehicles,100
+499,Mexico,Historical,EV sales,Cars,BEV,2013,Vehicles,12
+500,Mexico,Historical,EV sales,Cars,BEV,2014,Vehicles,48
+501,Mexico,Historical,EV stock,Cars,BEV,2014,Vehicles,150
+502,Mexico,Historical,EV stock,Cars,BEV,2015,Vehicles,240
+503,Mexico,Historical,EV sales,Cars,BEV,2015,Vehicles,92
+504,Mexico,Historical,EV sales,Cars,BEV,2016,Vehicles,250
+505,Mexico,Historical,EV stock,Cars,BEV,2016,Vehicles,500
+506,Mexico,Historical,EV stock,Cars,BEV,2017,Vehicles,730
+507,Mexico,Historical,EV sales,Cars,BEV,2017,Vehicles,230
+508,Mexico,Historical,EV sales,Cars,BEV,2018,Vehicles,200
+509,Mexico,Historical,EV stock,Cars,BEV,2018,Vehicles,930
+510,Mexico,Historical,EV stock,Cars,BEV,2019,Vehicles,1200
+511,Mexico,Historical,EV sales,Cars,BEV,2019,Vehicles,290
+512,Mexico,Historical,EV sales,Cars,BEV,2020,Vehicles,1800
+513,Mexico,Historical,EV stock,Cars,BEV,2020,Vehicles,3100
+514,Mexico,Historical,EV stock,Cars,BEV,2021,Vehicles,6100
+515,Mexico,Historical,EV sales,Cars,BEV,2021,Vehicles,3000
+516,Mexico,Historical,EV sales,Cars,BEV,2022,Vehicles,4400
+517,Mexico,Historical,EV stock,Cars,BEV,2022,Vehicles,10000
+518,Netherlands,Historical,EV stock,Cars,BEV,2010,Vehicles,270
+519,Netherlands,Historical,EV sales,Cars,BEV,2010,Vehicles,120
+520,Netherlands,Historical,EV sales,Cars,BEV,2011,Vehicles,860
+521,Netherlands,Historical,EV stock,Cars,BEV,2011,Vehicles,1100
+522,Netherlands,Historical,EV stock,Cars,BEV,2012,Vehicles,1900
+523,Netherlands,Historical,EV sales,Cars,BEV,2012,Vehicles,790
+524,Netherlands,Historical,EV sales,Cars,BEV,2013,Vehicles,2600
+525,Netherlands,Historical,EV stock,Cars,BEV,2013,Vehicles,4200
+526,Netherlands,Historical,EV stock,Cars,BEV,2014,Vehicles,6800
+527,Netherlands,Historical,EV sales,Cars,BEV,2014,Vehicles,2700
+528,Netherlands,Historical,EV sales,Cars,BEV,2015,Vehicles,3800
+529,Netherlands,Historical,EV stock,Cars,BEV,2015,Vehicles,9400
+530,Netherlands,Historical,EV stock,Cars,BEV,2016,Vehicles,13000
+531,Netherlands,Historical,EV sales,Cars,BEV,2016,Vehicles,4100
+532,Netherlands,Historical,EV sales,Cars,BEV,2017,Vehicles,9200
+533,Netherlands,Historical,EV stock,Cars,BEV,2017,Vehicles,21000
+534,Netherlands,Historical,EV stock,Cars,BEV,2018,Vehicles,45000
+535,Netherlands,Historical,EV sales,Cars,BEV,2018,Vehicles,24000
+536,Netherlands,Historical,EV sales,Cars,BEV,2019,Vehicles,62000
+537,Netherlands,Historical,EV stock,Cars,BEV,2019,Vehicles,110000
+538,Netherlands,Historical,EV stock,Cars,BEV,2020,Vehicles,180000
+539,Netherlands,Historical,EV sales,Cars,BEV,2020,Vehicles,73000
+540,Netherlands,Historical,EV sales,Cars,BEV,2021,Vehicles,64000
+541,Netherlands,Historical,EV stock,Cars,BEV,2021,Vehicles,250000
+542,Netherlands,Historical,EV stock,Cars,BEV,2022,Vehicles,340000
+543,Netherlands,Historical,EV sales,Cars,BEV,2022,Vehicles,73000
+544,New Zealand,Historical,EV stock,Cars,BEV,2010,Vehicles,14
+545,New Zealand,Historical,EV sales,Cars,BEV,2010,Vehicles,10
+546,New Zealand,Historical,EV sales,Cars,BEV,2011,Vehicles,13
+547,New Zealand,Historical,EV stock,Cars,BEV,2011,Vehicles,27
+548,New Zealand,Historical,EV stock,Cars,BEV,2012,Vehicles,49
+549,New Zealand,Historical,EV sales,Cars,BEV,2012,Vehicles,22
+550,New Zealand,Historical,EV sales,Cars,BEV,2013,Vehicles,30
+551,New Zealand,Historical,EV stock,Cars,BEV,2013,Vehicles,79
+552,New Zealand,Historical,EV stock,Cars,BEV,2014,Vehicles,190
+553,New Zealand,Historical,EV sales,Cars,BEV,2014,Vehicles,110
+554,New Zealand,Historical,EV sales,Cars,BEV,2015,Vehicles,300
+555,New Zealand,Historical,EV stock,Cars,BEV,2015,Vehicles,490
+556,New Zealand,Historical,EV stock,Cars,BEV,2016,Vehicles,1600
+557,New Zealand,Historical,EV sales,Cars,BEV,2016,Vehicles,1200
+558,New Zealand,Historical,EV sales,Cars,BEV,2017,Vehicles,2900
+559,New Zealand,Historical,EV stock,Cars,BEV,2017,Vehicles,4600
+560,New Zealand,Historical,EV stock,Cars,BEV,2018,Vehicles,8900
+561,New Zealand,Historical,EV sales,Cars,BEV,2018,Vehicles,4400
+562,New Zealand,Historical,EV sales,Cars,BEV,2019,Vehicles,5300
+563,New Zealand,Historical,EV stock,Cars,BEV,2019,Vehicles,13000
+564,New Zealand,Historical,EV stock,Cars,BEV,2020,Vehicles,17000
+565,New Zealand,Historical,EV sales,Cars,BEV,2020,Vehicles,3900
+566,New Zealand,Historical,EV sales,Cars,BEV,2021,Vehicles,6800
+567,New Zealand,Historical,EV stock,Cars,BEV,2021,Vehicles,26000
+568,New Zealand,Historical,EV stock,Cars,BEV,2022,Vehicles,46000
+569,New Zealand,Historical,EV sales,Cars,BEV,2022,Vehicles,19000
+570,Norway,Historical,EV stock,Cars,BEV,2010,Vehicles,2700
+571,Norway,Historical,EV sales,Cars,BEV,2010,Vehicles,360
+572,Norway,Historical,EV sales,Cars,BEV,2011,Vehicles,2000
+573,Norway,Historical,EV stock,Cars,BEV,2011,Vehicles,3900
+574,Norway,Historical,EV stock,Cars,BEV,2012,Vehicles,8000
+575,Norway,Historical,EV sales,Cars,BEV,2012,Vehicles,3900
+576,Norway,Historical,EV sales,Cars,BEV,2013,Vehicles,7900
+577,Norway,Historical,EV stock,Cars,BEV,2013,Vehicles,15000
+578,Norway,Historical,EV stock,Cars,BEV,2014,Vehicles,33000
+579,Norway,Historical,EV sales,Cars,BEV,2014,Vehicles,20000
+580,Norway,Historical,EV sales,Cars,BEV,2015,Vehicles,26000
+581,Norway,Historical,EV stock,Cars,BEV,2015,Vehicles,59000
+582,Norway,Historical,EV stock,Cars,BEV,2016,Vehicles,83000
+583,Norway,Historical,EV sales,Cars,BEV,2016,Vehicles,24000
+584,Norway,Historical,EV sales,Cars,BEV,2017,Vehicles,33000
+585,Norway,Historical,EV stock,Cars,BEV,2017,Vehicles,120000
+586,Norway,Historical,EV stock,Cars,BEV,2018,Vehicles,160000
+587,Norway,Historical,EV sales,Cars,BEV,2018,Vehicles,46000
+588,Norway,Historical,EV sales,Cars,BEV,2019,Vehicles,60000
+589,Norway,Historical,EV stock,Cars,BEV,2019,Vehicles,220000
+590,Norway,Historical,EV stock,Cars,BEV,2020,Vehicles,340000
+591,Norway,Historical,EV sales,Cars,BEV,2020,Vehicles,77000
+592,Norway,Historical,EV sales,Cars,BEV,2021,Vehicles,110000
+593,Norway,Historical,EV stock,Cars,BEV,2021,Vehicles,450000
+594,Norway,Historical,EV stock,Cars,BEV,2022,Vehicles,590000
+595,Norway,Historical,EV sales,Cars,BEV,2022,Vehicles,150000
+596,Other Europe,Historical,EV stock,Cars,BEV,2010,Vehicles,110
+597,Other Europe,Historical,EV sales,Cars,BEV,2010,Vehicles,21
+598,Other Europe,Historical,EV sales,Cars,BEV,2011,Vehicles,180
+599,Other Europe,Historical,EV stock,Cars,BEV,2011,Vehicles,370
+600,Other Europe,Historical,EV stock,Cars,BEV,2012,Vehicles,1500
+601,Other Europe,Historical,EV sales,Cars,BEV,2012,Vehicles,750
+602,Other Europe,Historical,EV sales,Cars,BEV,2013,Vehicles,220
+603,Other Europe,Historical,EV stock,Cars,BEV,2013,Vehicles,2000
+604,Other Europe,Historical,EV stock,Cars,BEV,2014,Vehicles,4000
+605,Other Europe,Historical,EV sales,Cars,BEV,2014,Vehicles,1200
+606,Other Europe,Historical,EV sales,Cars,BEV,2015,Vehicles,1300
+607,Other Europe,Historical,EV stock,Cars,BEV,2015,Vehicles,5600
+608,Other Europe,Historical,EV stock,Cars,BEV,2016,Vehicles,7600
+609,Other Europe,Historical,EV sales,Cars,BEV,2016,Vehicles,1500
+610,Other Europe,Historical,EV stock,Cars,BEV,2017,Vehicles,11000
+611,Other Europe,Historical,EV sales,Cars,BEV,2017,Vehicles,3200
+612,Other Europe,Historical,EV sales,Cars,BEV,2018,Vehicles,6300
+613,Other Europe,Historical,EV stock,Cars,BEV,2018,Vehicles,18000
+614,Other Europe,Historical,EV stock,Cars,BEV,2019,Vehicles,30000
+615,Other Europe,Historical,EV sales,Cars,BEV,2019,Vehicles,11000
+616,Other Europe,Historical,EV sales,Cars,BEV,2020,Vehicles,21000
+617,Other Europe,Historical,EV stock,Cars,BEV,2020,Vehicles,50000
+618,Other Europe,Historical,EV stock,Cars,BEV,2021,Vehicles,85000
+619,Other Europe,Historical,EV sales,Cars,BEV,2021,Vehicles,35000
+620,Other Europe,Historical,EV sales,Cars,BEV,2022,Vehicles,53000
+621,Other Europe,Historical,EV stock,Cars,BEV,2022,Vehicles,160000
+622,Poland,Historical,EV sales,Cars,BEV,2010,Vehicles,15
+623,Poland,Historical,EV sales,Cars,BEV,2011,Vehicles,43
+624,Poland,Historical,EV sales,Cars,BEV,2012,Vehicles,44
+625,Poland,Historical,EV sales,Cars,BEV,2013,Vehicles,31
+626,Poland,Historical,EV sales,Cars,BEV,2014,Vehicles,140
+627,Poland,Historical,EV stock,Cars,BEV,2015,Vehicles,2500
+628,Poland,Historical,EV sales,Cars,BEV,2015,Vehicles,70
+629,Poland,Historical,EV sales,Cars,BEV,2016,Vehicles,110
+630,Poland,Historical,EV stock,Cars,BEV,2016,Vehicles,2600
+631,Poland,Historical,EV stock,Cars,BEV,2017,Vehicles,3100
+632,Poland,Historical,EV sales,Cars,BEV,2017,Vehicles,440
+633,Poland,Historical,EV sales,Cars,BEV,2018,Vehicles,620
+634,Poland,Historical,EV stock,Cars,BEV,2018,Vehicles,3700
+635,Poland,Historical,EV stock,Cars,BEV,2019,Vehicles,5200
+636,Poland,Historical,EV sales,Cars,BEV,2019,Vehicles,1500
+637,Poland,Historical,EV sales,Cars,BEV,2020,Vehicles,3700
+638,Poland,Historical,EV stock,Cars,BEV,2020,Vehicles,8800
+639,Poland,Historical,EV stock,Cars,BEV,2021,Vehicles,19000
+640,Poland,Historical,EV sales,Cars,BEV,2021,Vehicles,7200
+641,Poland,Historical,EV sales,Cars,BEV,2022,Vehicles,14000
+642,Poland,Historical,EV stock,Cars,BEV,2022,Vehicles,31000
+643,Portugal,Historical,EV sales,Cars,BEV,2010,Vehicles,720
+644,Portugal,Historical,EV stock,Cars,BEV,2010,Vehicles,720
+645,Portugal,Historical,EV stock,Cars,BEV,2011,Vehicles,910
+646,Portugal,Historical,EV sales,Cars,BEV,2011,Vehicles,190
+647,Portugal,Historical,EV sales,Cars,BEV,2012,Vehicles,52
+648,Portugal,Historical,EV stock,Cars,BEV,2012,Vehicles,960
+649,Portugal,Historical,EV stock,Cars,BEV,2013,Vehicles,1100
+650,Portugal,Historical,EV sales,Cars,BEV,2013,Vehicles,170
+651,Portugal,Historical,EV sales,Cars,BEV,2014,Vehicles,190
+652,Portugal,Historical,EV stock,Cars,BEV,2014,Vehicles,1300
+653,Portugal,Historical,EV stock,Cars,BEV,2015,Vehicles,2000
+654,Portugal,Historical,EV sales,Cars,BEV,2015,Vehicles,640
+655,Portugal,Historical,EV sales,Cars,BEV,2016,Vehicles,810
+656,Portugal,Historical,EV stock,Cars,BEV,2016,Vehicles,2800
+657,Portugal,Historical,EV stock,Cars,BEV,2017,Vehicles,4700
+658,Portugal,Historical,EV sales,Cars,BEV,2017,Vehicles,1900
+659,Portugal,Historical,EV sales,Cars,BEV,2018,Vehicles,4100
+660,Portugal,Historical,EV stock,Cars,BEV,2018,Vehicles,8700
+661,Portugal,Historical,EV stock,Cars,BEV,2019,Vehicles,16000
+662,Portugal,Historical,EV sales,Cars,BEV,2019,Vehicles,6900
+663,Portugal,Historical,EV sales,Cars,BEV,2020,Vehicles,7800
+664,Portugal,Historical,EV stock,Cars,BEV,2020,Vehicles,23000
+665,Portugal,Historical,EV stock,Cars,BEV,2021,Vehicles,37000
+666,Portugal,Historical,EV sales,Cars,BEV,2021,Vehicles,13000
+667,Portugal,Historical,EV sales,Cars,BEV,2022,Vehicles,18000
+668,Portugal,Historical,EV stock,Cars,BEV,2022,Vehicles,54000
+669,Rest of the world,Historical,EV sales,Cars,BEV,2011,Vehicles,42
+670,Rest of the world,Historical,EV stock,Cars,BEV,2011,Vehicles,42
+671,Rest of the world,Historical,EV stock,Cars,BEV,2012,Vehicles,320
+672,Rest of the world,Historical,EV sales,Cars,BEV,2012,Vehicles,280
+673,Rest of the world,Historical,EV sales,Cars,BEV,2013,Vehicles,140
+674,Rest of the world,Historical,EV stock,Cars,BEV,2013,Vehicles,460
+675,Rest of the world,Historical,EV stock,Cars,BEV,2014,Vehicles,570
+676,Rest of the world,Historical,EV sales,Cars,BEV,2014,Vehicles,120
+677,Rest of the world,Historical,EV sales,Cars,BEV,2015,Vehicles,3300
+678,Rest of the world,Historical,EV stock,Cars,BEV,2015,Vehicles,3900
+679,Rest of the world,Historical,EV stock,Cars,BEV,2016,Vehicles,4800
+680,Rest of the world,Historical,EV sales,Cars,BEV,2016,Vehicles,890
+681,Rest of the world,Historical,EV sales,Cars,BEV,2017,Vehicles,1700
+682,Rest of the world,Historical,EV stock,Cars,BEV,2017,Vehicles,6500
+683,Rest of the world,Historical,EV stock,Cars,BEV,2018,Vehicles,8100
+684,Rest of the world,Historical,EV sales,Cars,BEV,2018,Vehicles,1600
+685,Rest of the world,Historical,EV sales,Cars,BEV,2019,Vehicles,4000
+686,Rest of the world,Historical,EV stock,Cars,BEV,2019,Vehicles,12000
+687,Rest of the world,Historical,EV stock,Cars,BEV,2020,Vehicles,18000
+688,Rest of the world,Historical,EV sales,Cars,BEV,2020,Vehicles,5700
+689,Rest of the world,Historical,EV sales,Cars,BEV,2021,Vehicles,14000
+690,Rest of the world,Historical,EV stock,Cars,BEV,2021,Vehicles,32000
+691,Rest of the world,Historical,EV stock,Cars,BEV,2022,Vehicles,57000
+692,Rest of the world,Historical,EV sales,Cars,BEV,2022,Vehicles,25000
+693,South Africa,Historical,EV sales,Cars,BEV,2013,Vehicles,34
+694,South Africa,Historical,EV stock,Cars,BEV,2013,Vehicles,34
+695,South Africa,Historical,EV stock,Cars,BEV,2014,Vehicles,48
+696,South Africa,Historical,EV sales,Cars,BEV,2014,Vehicles,14
+697,South Africa,Historical,EV sales,Cars,BEV,2015,Vehicles,120
+698,South Africa,Historical,EV stock,Cars,BEV,2015,Vehicles,160
+699,South Africa,Historical,EV stock,Cars,BEV,2016,Vehicles,260
+700,South Africa,Historical,EV sales,Cars,BEV,2016,Vehicles,100
+701,South Africa,Historical,EV sales,Cars,BEV,2017,Vehicles,68
+702,South Africa,Historical,EV stock,Cars,BEV,2017,Vehicles,330
+703,South Africa,Historical,EV stock,Cars,BEV,2018,Vehicles,400
+704,South Africa,Historical,EV sales,Cars,BEV,2018,Vehicles,66
+705,South Africa,Historical,EV sales,Cars,BEV,2019,Vehicles,160
+706,South Africa,Historical,EV stock,Cars,BEV,2019,Vehicles,560
+707,South Africa,Historical,EV stock,Cars,BEV,2020,Vehicles,640
+708,South Africa,Historical,EV sales,Cars,BEV,2020,Vehicles,92
+709,South Africa,Historical,EV sales,Cars,BEV,2021,Vehicles,220
+710,South Africa,Historical,EV stock,Cars,BEV,2021,Vehicles,860
+711,South Africa,Historical,EV stock,Cars,BEV,2022,Vehicles,1400
+712,South Africa,Historical,EV sales,Cars,BEV,2022,Vehicles,500
+713,Spain,Historical,EV sales,Cars,BEV,2010,Vehicles,76
+714,Spain,Historical,EV stock,Cars,BEV,2010,Vehicles,76
+715,Spain,Historical,EV stock,Cars,BEV,2011,Vehicles,460
+716,Spain,Historical,EV sales,Cars,BEV,2011,Vehicles,390
+717,Spain,Historical,EV sales,Cars,BEV,2012,Vehicles,430
+718,Spain,Historical,EV stock,Cars,BEV,2012,Vehicles,890
+719,Spain,Historical,EV stock,Cars,BEV,2013,Vehicles,1700
+720,Spain,Historical,EV sales,Cars,BEV,2013,Vehicles,810
+721,Spain,Historical,EV sales,Cars,BEV,2014,Vehicles,1400
+722,Spain,Historical,EV stock,Cars,BEV,2014,Vehicles,3100
+723,Spain,Historical,EV stock,Cars,BEV,2015,Vehicles,4400
+724,Spain,Historical,EV sales,Cars,BEV,2015,Vehicles,1300
+725,Spain,Historical,EV sales,Cars,BEV,2016,Vehicles,2000
+726,Spain,Historical,EV stock,Cars,BEV,2016,Vehicles,6500
+727,Spain,Historical,EV stock,Cars,BEV,2017,Vehicles,10000
+728,Spain,Historical,EV sales,Cars,BEV,2017,Vehicles,3900
+729,Spain,Historical,EV sales,Cars,BEV,2018,Vehicles,6000
+730,Spain,Historical,EV stock,Cars,BEV,2018,Vehicles,16000
+731,Spain,Historical,EV stock,Cars,BEV,2019,Vehicles,26000
+732,Spain,Historical,EV sales,Cars,BEV,2019,Vehicles,10000
+733,Spain,Historical,EV sales,Cars,BEV,2020,Vehicles,18000
+734,Spain,Historical,EV stock,Cars,BEV,2020,Vehicles,45000
+735,Spain,Historical,EV stock,Cars,BEV,2021,Vehicles,69000
+736,Spain,Historical,EV sales,Cars,BEV,2021,Vehicles,24000
+737,Spain,Historical,EV sales,Cars,BEV,2022,Vehicles,33000
+738,Spain,Historical,EV stock,Cars,BEV,2022,Vehicles,96000
+739,Sweden,Historical,EV sales,Cars,BEV,2010,Vehicles,4
+740,Sweden,Historical,EV stock,Cars,BEV,2010,Vehicles,4
+741,Sweden,Historical,EV stock,Cars,BEV,2011,Vehicles,180
+742,Sweden,Historical,EV sales,Cars,BEV,2011,Vehicles,180
+743,Sweden,Historical,EV sales,Cars,BEV,2012,Vehicles,270
+744,Sweden,Historical,EV stock,Cars,BEV,2012,Vehicles,600
+745,Sweden,Historical,EV stock,Cars,BEV,2013,Vehicles,1000
+746,Sweden,Historical,EV sales,Cars,BEV,2013,Vehicles,430
+747,Sweden,Historical,EV sales,Cars,BEV,2014,Vehicles,1200
+748,Sweden,Historical,EV stock,Cars,BEV,2014,Vehicles,2200
+749,Sweden,Historical,EV stock,Cars,BEV,2015,Vehicles,4800
+750,Sweden,Historical,EV sales,Cars,BEV,2015,Vehicles,3000
+751,Sweden,Historical,EV stock,Cars,BEV,2016,Vehicles,7500
+752,Sweden,Historical,EV sales,Cars,BEV,2016,Vehicles,2900
+753,Sweden,Historical,EV sales,Cars,BEV,2017,Vehicles,4400
+754,Sweden,Historical,EV stock,Cars,BEV,2017,Vehicles,11000
+755,Sweden,Historical,EV stock,Cars,BEV,2018,Vehicles,17000
+756,Sweden,Historical,EV sales,Cars,BEV,2018,Vehicles,7100
+757,Sweden,Historical,EV sales,Cars,BEV,2019,Vehicles,16000
+758,Sweden,Historical,EV stock,Cars,BEV,2019,Vehicles,30000
+759,Sweden,Historical,EV stock,Cars,BEV,2020,Vehicles,56000
+760,Sweden,Historical,EV sales,Cars,BEV,2020,Vehicles,28000
+761,Sweden,Historical,EV sales,Cars,BEV,2021,Vehicles,57000
+762,Sweden,Historical,EV stock,Cars,BEV,2021,Vehicles,110000
+763,Sweden,Historical,EV stock,Cars,BEV,2022,Vehicles,200000
+764,Sweden,Historical,EV sales,Cars,BEV,2022,Vehicles,96000
+765,Switzerland,Historical,EV sales,Cars,BEV,2011,Vehicles,400
+766,Switzerland,Historical,EV stock,Cars,BEV,2011,Vehicles,400
+767,Switzerland,Historical,EV stock,Cars,BEV,2012,Vehicles,740
+768,Switzerland,Historical,EV sales,Cars,BEV,2012,Vehicles,340
+769,Switzerland,Historical,EV sales,Cars,BEV,2013,Vehicles,1200
+770,Switzerland,Historical,EV stock,Cars,BEV,2013,Vehicles,1900
+771,Switzerland,Historical,EV stock,Cars,BEV,2014,Vehicles,4600
+772,Switzerland,Historical,EV sales,Cars,BEV,2014,Vehicles,2700
+773,Switzerland,Historical,EV sales,Cars,BEV,2015,Vehicles,3300
+774,Switzerland,Historical,EV stock,Cars,BEV,2015,Vehicles,7800
+775,Switzerland,Historical,EV stock,Cars,BEV,2016,Vehicles,11000
+776,Switzerland,Historical,EV sales,Cars,BEV,2016,Vehicles,3300
+777,Switzerland,Historical,EV sales,Cars,BEV,2017,Vehicles,4800
+778,Switzerland,Historical,EV stock,Cars,BEV,2017,Vehicles,16000
+779,Switzerland,Historical,EV stock,Cars,BEV,2018,Vehicles,21000
+780,Switzerland,Historical,EV sales,Cars,BEV,2018,Vehicles,5100
+781,Switzerland,Historical,EV sales,Cars,BEV,2019,Vehicles,13000
+782,Switzerland,Historical,EV stock,Cars,BEV,2019,Vehicles,34000
+783,Switzerland,Historical,EV stock,Cars,BEV,2020,Vehicles,54000
+784,Switzerland,Historical,EV sales,Cars,BEV,2020,Vehicles,20000
+785,Switzerland,Historical,EV sales,Cars,BEV,2021,Vehicles,32000
+786,Switzerland,Historical,EV stock,Cars,BEV,2021,Vehicles,86000
+787,Switzerland,Historical,EV stock,Cars,BEV,2022,Vehicles,130000
+788,Switzerland,Historical,EV sales,Cars,BEV,2022,Vehicles,40000
+789,Turkiye,Historical,EV sales,Cars,BEV,2012,Vehicles,92
+790,Turkiye,Historical,EV stock,Cars,BEV,2013,Vehicles,230
+791,Turkiye,Historical,EV stock,Cars,BEV,2014,Vehicles,260
+792,Turkiye,Historical,EV sales,Cars,BEV,2014,Vehicles,46
+793,Turkiye,Historical,EV sales,Cars,BEV,2015,Vehicles,120
+794,Turkiye,Historical,EV stock,Cars,BEV,2015,Vehicles,370
+795,Turkiye,Historical,EV stock,Cars,BEV,2016,Vehicles,420
+796,Turkiye,Historical,EV sales,Cars,BEV,2016,Vehicles,44
+797,Turkiye,Historical,EV sales,Cars,BEV,2017,Vehicles,77
+798,Turkiye,Historical,EV stock,Cars,BEV,2017,Vehicles,500
+799,Turkiye,Historical,EV stock,Cars,BEV,2018,Vehicles,650
+800,Turkiye,Historical,EV sales,Cars,BEV,2018,Vehicles,190
+801,Turkiye,Historical,EV sales,Cars,BEV,2019,Vehicles,230
+802,Turkiye,Historical,EV stock,Cars,BEV,2019,Vehicles,1300
+803,Turkiye,Historical,EV stock,Cars,BEV,2020,Vehicles,2900
+804,Turkiye,Historical,EV sales,Cars,BEV,2020,Vehicles,890
+805,Turkiye,Historical,EV sales,Cars,BEV,2021,Vehicles,3000
+806,Turkiye,Historical,EV stock,Cars,BEV,2021,Vehicles,6800
+807,Turkiye,Historical,EV stock,Cars,BEV,2022,Vehicles,14000
+808,Turkiye,Historical,EV sales,Cars,BEV,2022,Vehicles,7000
+809,United Kingdom,Historical,EV sales,Cars,BEV,2010,Vehicles,240
+810,United Kingdom,Historical,EV stock,Cars,BEV,2010,Vehicles,1500
+811,United Kingdom,Historical,EV stock,Cars,BEV,2011,Vehicles,2600
+812,United Kingdom,Historical,EV sales,Cars,BEV,2011,Vehicles,1200
+813,United Kingdom,Historical,EV sales,Cars,BEV,2012,Vehicles,1600
+814,United Kingdom,Historical,EV stock,Cars,BEV,2012,Vehicles,4100
+815,United Kingdom,Historical,EV stock,Cars,BEV,2013,Vehicles,6200
+816,United Kingdom,Historical,EV sales,Cars,BEV,2013,Vehicles,2600
+817,United Kingdom,Historical,EV sales,Cars,BEV,2014,Vehicles,6700
+818,United Kingdom,Historical,EV stock,Cars,BEV,2014,Vehicles,12000
+819,United Kingdom,Historical,EV stock,Cars,BEV,2015,Vehicles,21000
+820,United Kingdom,Historical,EV sales,Cars,BEV,2015,Vehicles,10000
+821,United Kingdom,Historical,EV sales,Cars,BEV,2016,Vehicles,10000
+822,United Kingdom,Historical,EV stock,Cars,BEV,2016,Vehicles,30000
+823,United Kingdom,Historical,EV stock,Cars,BEV,2017,Vehicles,42000
+824,United Kingdom,Historical,EV sales,Cars,BEV,2017,Vehicles,14000
+825,United Kingdom,Historical,EV sales,Cars,BEV,2018,Vehicles,16000
+826,United Kingdom,Historical,EV stock,Cars,BEV,2018,Vehicles,56000
+827,United Kingdom,Historical,EV stock,Cars,BEV,2019,Vehicles,91000
+828,United Kingdom,Historical,EV sales,Cars,BEV,2019,Vehicles,38000
+829,United Kingdom,Historical,EV sales,Cars,BEV,2020,Vehicles,110000
+830,United Kingdom,Historical,EV stock,Cars,BEV,2020,Vehicles,190000
+831,United Kingdom,Historical,EV stock,Cars,BEV,2021,Vehicles,380000
+832,United Kingdom,Historical,EV sales,Cars,BEV,2021,Vehicles,190000
+833,United Kingdom,Historical,EV sales,Cars,BEV,2022,Vehicles,270000
+834,United Kingdom,Historical,EV stock,Cars,BEV,2022,Vehicles,550000
+835,USA,Historical,EV stock,Cars,BEV,2010,Vehicles,3800
+836,USA,Historical,EV sales,Cars,BEV,2010,Vehicles,1200
+837,USA,Historical,EV sales,Cars,BEV,2011,Vehicles,9800
+838,USA,Historical,EV stock,Cars,BEV,2011,Vehicles,14000
+839,USA,Historical,EV stock,Cars,BEV,2012,Vehicles,28000
+840,USA,Historical,EV sales,Cars,BEV,2012,Vehicles,15000
+841,USA,Historical,EV sales,Cars,BEV,2013,Vehicles,48000
+842,USA,Historical,EV stock,Cars,BEV,2013,Vehicles,76000
+843,USA,Historical,EV stock,Cars,BEV,2014,Vehicles,140000
+844,USA,Historical,EV sales,Cars,BEV,2014,Vehicles,63000
+845,USA,Historical,EV stock,Cars,BEV,2015,Vehicles,210000
+846,USA,Historical,EV sales,Cars,BEV,2015,Vehicles,71000
+847,USA,Historical,EV stock,Cars,BEV,2016,Vehicles,300000
+848,USA,Historical,EV sales,Cars,BEV,2016,Vehicles,87000
+849,USA,Historical,EV sales,Cars,BEV,2017,Vehicles,100000
+850,USA,Historical,EV stock,Cars,BEV,2017,Vehicles,400000
+851,USA,Historical,EV stock,Cars,BEV,2018,Vehicles,640000
+852,USA,Historical,EV sales,Cars,BEV,2018,Vehicles,240000
+853,USA,Historical,EV sales,Cars,BEV,2019,Vehicles,240000
+854,USA,Historical,EV stock,Cars,BEV,2019,Vehicles,880000
+855,USA,Historical,EV stock,Cars,BEV,2020,Vehicles,1100000
+856,USA,Historical,EV sales,Cars,BEV,2020,Vehicles,230000
+857,USA,Historical,EV sales,Cars,BEV,2021,Vehicles,470000
+858,USA,Historical,EV stock,Cars,BEV,2021,Vehicles,1500000
+859,USA,Historical,EV stock,Cars,BEV,2022,Vehicles,2100000
+860,USA,Historical,EV sales,Cars,BEV,2022,Vehicles,800000
+861,World,Historical,EV stock,Cars,BEV,2010,Vehicles,17000
+862,World,Historical,EV sales,Cars,BEV,2010,Vehicles,7200
+863,World,Historical,EV sales,Cars,BEV,2011,Vehicles,39000
+864,World,Historical,EV stock,Cars,BEV,2011,Vehicles,55000
+865,World,Historical,EV stock,Cars,BEV,2012,Vehicles,120000
+866,World,Historical,EV sales,Cars,BEV,2012,Vehicles,58000
+867,World,Historical,EV sales,Cars,BEV,2013,Vehicles,110000
+868,World,Historical,EV stock,Cars,BEV,2013,Vehicles,230000
+869,World,Historical,EV stock,Cars,BEV,2014,Vehicles,410000
+870,World,Historical,EV sales,Cars,BEV,2014,Vehicles,200000
+871,World,Historical,EV sales,Cars,BEV,2015,Vehicles,330000
+872,World,Historical,EV stock,Cars,BEV,2015,Vehicles,740000
+873,World,Historical,EV stock,Cars,BEV,2016,Vehicles,1200000
+874,World,Historical,EV sales,Cars,BEV,2016,Vehicles,460000
+875,World,Historical,EV sales,Cars,BEV,2017,Vehicles,760000
+876,World,Historical,EV stock,Cars,BEV,2017,Vehicles,1900000
+877,World,Historical,EV stock,Cars,BEV,2018,Vehicles,3300000
+878,World,Historical,EV sales,Cars,BEV,2018,Vehicles,1400000
+879,World,Historical,EV sales,Cars,BEV,2019,Vehicles,1500000
+880,World,Historical,EV stock,Cars,BEV,2019,Vehicles,4800000
+881,World,Historical,EV stock,Cars,BEV,2020,Vehicles,6800000
+882,World,Historical,EV sales,Cars,BEV,2020,Vehicles,2000000
+883,World,Historical,EV sales,Cars,BEV,2021,Vehicles,4600000
+884,World,Historical,EV stock,Cars,BEV,2021,Vehicles,11000000
+885,World,Historical,EV stock,Cars,BEV,2022,Vehicles,18000000
+886,World,Historical,EV sales,Cars,BEV,2022,Vehicles,7300000
