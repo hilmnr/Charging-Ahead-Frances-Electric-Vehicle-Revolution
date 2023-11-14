@@ -28,10 +28,14 @@ Data cleaning for this project was thorough and involved the application of a va
 
 ### Data visualization
 To ensure consistency between visualizations and overall analysis, I chose 2011 through 2021 as the range of available years for the vast majority of the charts.
-A total of sixteen visualizations were created from the ‘EV_in_France’ database using Tableau via the MySQL connector.
-![Alt text](https://public.tableau.com/static/images/EV/EV_in_France_dataviz/EVstory/1.png)
+A total of sixteen visualizations were created from the ‘EV_in_France’ database using Tableau via the MySQL connector. Here's a quick look at them:
+
+
+https://github.com/hilmnr/Charging-Ahead-Frances-Electric-Vehicle-Revolution/assets/145452309/25946328-a259-4bb4-b43b-f72f962931d3
+
 
 ## Data Sources
+
 
 ### EV sales 
 France
