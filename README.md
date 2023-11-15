@@ -60,3 +60,16 @@ I consulted the "Insee" database, which is the official site for the National In
 5. Big Data System
 As a final method for collecting data, I had to use a Big Data System in this project. While there are many big data systems on the market, such as Snowflake, Amazon Redshift, Oracle database, there is no doubt that Google BigQuery stands out due to its scalability, speed, ease of use, and cost effectiveness 
 
+## Exposing API
+An API was developed to make a portion of the available data accessible for various applications. The documentation for this API was created directly in the Python file using HTML.
+
+### Here's how it looks in action
+
+https://github.com/hilmnr/Charging-Ahead-Frances-Electric-Vehicle-Revolution/assets/145452309/7d795902-70bf-48a4-b979-0951f5dd2de5
+
+## Time Series
+
+(in progress)
+
+
+
