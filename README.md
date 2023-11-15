@@ -40,26 +40,23 @@ The topic has been segmented into three distinct categories: EV sales in France 
 After defining those categories, I moved on to data collection, which was carried out through five distinct methods.
 
 1. Web Scraping
-French websites Capital auto and Automobile propre were scrapped in compliance with their  respective Terms of Service. The scraping was intended to gather the ‘Top 10 EV selling vehicles’ in France for years 2019, 2020, 2021 and 2022. 
+French websites 'Capital Auto' and 'Automobile Propre' were scrapped in compliance with their  respective Terms of Service. The scraping was intended to gather the ‘Top 10 EV selling vehicles’ in France for years 2019, 2020, 2021 and 2022.
+[Capital Auto](https://www.capital.fr/auto/les-20-voitures-electriques-les-plus-vendues-en-france-en-2021-1424558)
+[Automobile Propre](https://www.automobile-propre.com/voiture-electrique-le-top-10-des-ventes-en-france-en-2020/)
 
 2. API
 I accessed France's charging points data, categorized by type and department, through ENEDIS's public API, which oversees the majority of the national electricity distribution network. 
+[ENEDIS API](https://data.enedis.fr/api/explore/v2.1/console)
 
-3. 
+3. Flat File
+Two sources of data were used in the form of flat files in CSV format.
+a. The International Energy Agency (IEA) has an official website at "https://www.iea.org/"
+b. The website "https://www.senat.fr/", which is the official site of the French Senate
 
-### EV sales 
-France
-- Registrations [Voitures particulières immatriculées par commune et par type de recharge](https://opendata.agenceore.fr/explore/dataset/voitures-par-commune-par-energie/information/)
-- Float
-  
-World
-### EV constructors in France
+ 4. Database
+I consulted the "Insee" database, which is the official site for the National Institute of Statistics and Economic Studies in France. From this source I was able to retrieve all the information related to vehicle registrations in France, more specifically, number of  EV registrations per month from 2011-2021, and number of registrations by energy type for the same period. 
+[INSEE](https://data.enedis.fr/api/explore/v2.1/console](https://www.insee.fr/fr/accueil)https://www.insee.fr/fr/accueil)
 
+5. Big Data System
+As a final method for collecting data, I had to use a Big Data System in this project. While there are many big data systems on the market, such as Snowflake, Amazon Redshift, Oracle database, there is no doubt that Google BigQuery stands out due to its scalability, speed, ease of use, and cost effectiveness 
 
-### EV charging stations 
-France
-
-World
-
-### EV government incentives in France
-France
