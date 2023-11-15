@@ -34,10 +34,18 @@ A total of sixteen visualizations were created from the ‘EV_in_France’ datab
 https://github.com/hilmnr/Charging-Ahead-Frances-Electric-Vehicle-Revolution/assets/145452309/1f3606c9-36ed-45a6-bc78-851fccc0dfcb
 
 
-
-
 ## Data Sources
+The topic has been segmented into three distinct categories: EV sales in France (which encompasses registration and fleet data), EV charging points in France, and governmental initiatives related to electric vehicles.
 
+After defining those categories, I moved on to data collection, which was carried out through five distinct methods.
+
+1. Web Scraping
+French websites Capital auto and Automobile propre were scrapped in compliance with their  respective Terms of Service. The scraping was intended to gather the ‘Top 10 EV selling vehicles’ in France for years 2019, 2020, 2021 and 2022. 
+
+2. API
+I accessed France's charging points data, categorized by type and department, through ENEDIS's public API, which oversees the majority of the national electricity distribution network. 
+
+3. 
 
 ### EV sales 
 France
